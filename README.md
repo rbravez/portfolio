@@ -20,6 +20,6 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
   
  *Tools:Pandas, Seaborn, Scipy Stats and Matplotlib.*
 - ### Machine Learning
-  - ###K Cluster Analysis
+  - ### K Cluster Analysis
 - ### Micro Projects 
 
