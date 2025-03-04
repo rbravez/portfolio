@@ -17,6 +17,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
     - **[A/B Testing for Marketing Promotions Strategy](https://github.com/rbravez/portfolio/blob/main/projects/ABTesing.ipynb)**: Description TBD
   - Tableau
   - SQL
+ *Tools: Pandas, Seaborn, Scipy Stats and Matplotlib.*
 - Machine Learning
   - K Cluster Analysis
 - Micro Projects 
