@@ -12,14 +12,14 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 2. Run noteooks as usual by using your prefered IDE.
 
 ## Contents
-- ###Data Analysis and Visualization
-  - ####Python
+- ### Data Analysis and Visualization
+  - #### Python
     - **[A/B Testing for Marketing Promotions Strategy](https://github.com/rbravez/portfolio/blob/main/projects/ABTesing.ipynb)**: Description TBD
-  - ####Tableau
-  - ####SQL
+  - #### Tableau
+  - #### SQL
   
  *Tools:Pandas, Seaborn, Scipy Stats and Matplotlib.*
-- ###Machine Learning
+- ### Machine Learning
   - ###K Cluster Analysis
-- ###Micro Projects 
+- ### Micro Projects 
 
