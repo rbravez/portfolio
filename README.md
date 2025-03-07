@@ -20,6 +20,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
   
  *Tools:Pandas, Seaborn, Scipy Stats and Matplotlib.*
 - ### Machine Learning
-  - ### K Cluster Analysis
+  - **[Time Series Analysis for Consumer Price Index on Rentals in Spain](https://github.com/rbravez/portfolio/blob/main/projects/Time%20Series%20Analysis/entregable.ipynb) [Spanish] ]**: Analyzed and built both Exponential Smoothing and ARIMA models to forecast Spain's rental living CPI through 2024. Various techniques were used, including manual and automatic SARIMA, PCAF, and AFC. Exponential Smoothing proved superior for the dataset used.
+  - #### K Cluster Analysis
 - ### Micro Projects 
 
