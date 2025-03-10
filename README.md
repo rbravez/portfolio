@@ -16,6 +16,7 @@ For a more visually pleasant experience for browsing the portfolio, check out **
   - #### Tableau
     - **[Business Case: Analyzing Loan Performance for Strategic Decision-Making](https://github.com/rbravez/portfolio/blob/main/projects/Tableau/businesscase.md)**: Built a Tableau Dashboard (Spanish) to showcase the performance of loan-like product across different countries, extracted insights from a data visualization and was capable of extracting a meaningful conclusion out of it. 
   - #### SQL
+    - [Event Management Database Design & Operations](https://github.com/rbravez/portfolio/blob/main/projects/SQL/sql1.md): Built a database with PostgreSQL for managing cultural events across different countries, consideting different artists, cultural types... etc. Added simple queries to showcase the database utilization. 
   
  *Tools: Pandas, Seaborn, Scipy Stats and Matplotlib.*
 - ### Machine Learning
