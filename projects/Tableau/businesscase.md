@@ -18,3 +18,19 @@ During 2023, the company observed fluctuations in loan performance across differ
 
 4. Evaluating merchant partnerships and identifying which businesses contribute most significantly to financial success.
 
+# Visualization
+For a interative dashboard experience please refer to this link [here](https://public.tableau.com/app/profile/ra.l.p.rez1875/viz/PerezLopezRal1/Dashboard#1).
+
+![Dashboard (Spanish)](Dashboard.png)
+
+# Key Insights
+
+- Spain had the highest transaction volume among all countries, indicating a strong demand for loans in this region.
+- Germany had relatively low loan volume throughout 2023, suggesting limited market activity or demand in this country.
+- A transaction of €0.34 was recorded, which is likely a test transaction rather than an actual loan.
+- Loan volume increased significantly towards the end of the year, suggesting seasonal trends or a higher demand for financing in the final months.
+- The total number of reimbursements reached 831, reflecting active loan repayment activity across all regions.
+
+# Conclusion
+
+The data indicates that Spain was the dominant market for loan transactions in 2023, while Germany contributed minimally. The significant rise in loan volume at the end of the year suggests potential seasonal factors influencing borrowing behavior. Further investigation could help understand whether this trend is due to economic conditions, promotions, or other external factors.
