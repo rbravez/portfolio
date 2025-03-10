@@ -14,7 +14,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 ## Contents
 - ### Data Analysis and Visualization
   - #### Python
-    - **[A/B Testing for Marketing Promotions Strategy](https://github.com/rbravez/portfolio/blob/main/projects/ABTesing.ipynb)**: Description TBD
+    - **[A/B Testing for Marketing Promotions Strategy](https://github.com/rbravez/portfolio/blob/main/projects/ABTesing.ipynb)**:  Performed an A/B analysis to evaluate the effectiveness of different marketing promotions. Utilized ANOVA and Tukey's test to assess statistical differences in the control group. The analysis revealed that one promotion significantly underperformed compared to the others.
   - #### Tableau
   - #### SQL
   
