@@ -14,7 +14,7 @@ For a more visually pleasant experience for browsing the portfolio, check out **
   - #### Python
     - **[A/B Testing for Marketing Promotions Strategy](https://github.com/rbravez/portfolio/blob/main/projects/ABTesing.ipynb)**:  Performed an A/B analysis to evaluate the effectiveness of different marketing promotions. Utilized ANOVA and Tukey's test to assess statistical differences in the control group. The analysis revealed that one promotion significantly underperformed compared to the others.
   - #### Tableau
-    - **[Business Case: Analyzing Loan Performance for Strategic Decision-Making](https://github.com/rbravez/portfolio/blob/main/projects/Tableau/businesscase.md): Built a Tableau Dashboard to showcase the performance of loan-like product across different countries, extracted insights from a data visualization and was capable of extracting a meaningful conclusion out of it.
+    - **[Business Case: Analyzing Loan Performance for Strategic Decision-Making](https://github.com/rbravez/portfolio/blob/main/projects/Tableau/businesscase.md)**: Built a Tableau Dashboard (Spanish) to showcase the performance of loan-like product across different countries, extracted insights from a data visualization and was capable of extracting a meaningful conclusion out of it. 
   - #### SQL
   
  *Tools: Pandas, Seaborn, Scipy Stats and Matplotlib.*
